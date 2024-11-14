@@ -1,12 +1,7 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>Liu, S.</strong>, Li, K., Ding, Y., Xu, K., Jiang, Q., Wu, Q. M., & Song, D. (2024). Towards the in-situ Trunk Identification and Length Measurement of Sea Cucumbers via Bézier Curve Modelling. arXiv preprint [arXiv:2406.13951](https://arxiv.org/abs/2406.13951).
+  
+- <strong>Liu, S.</strong>., Li, K., Ding, Y., & Qi, Q. (2024). Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier. arXiv preprint [arXiv:2405.16214](https://arxiv.org/abs/2405.16214).
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Liu, S.</strong>, Zheng, J., Wang, X., Zhang, Z., & Sun, R. Target detection from 3D point-cloud using Gaussian function and CNN. 2019 34rd Youth Academic Annual Conference of Chinese Association of Automation (YAC). [IEEE, 2019: 562-567](https://ieeexplore.ieee.org/abstract/document/8787705).
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Ding, Y., Li, K., Mei, H., <strong>Liu, S.</strong>, & Hou, G. (2024). WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation. arXiv preprint [arxiv:2406.13344](https://arxiv.org/abs/2406.13344). 
