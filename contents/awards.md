@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- The Second Prize Scholarship, 2017.
+  
+- National Encouragement Scholarship, 2017&2018.
 
-- Freshman Academic Scholarship, 2022.
+- Pacemaker to Merit Studentp, 2019.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- The Second Prize of the 4th Jiangsu University Student Transportation Science and Technology Competition, 2019.
