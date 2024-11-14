@@ -2,7 +2,7 @@
 
 [![Honeybadger-LSX](https://img.shields.io/badge/shuaixin-github-blue?logo=github)](https://github.com/Honeybadger-LSX)
 
-I am currently in my third-year of pursuing a Master's degree in Control Engineering at [School of Engineering](https://coe.ouc.edu.cn/), [Ocean University of China](https://www.ouc.edu.cn/). My thesis focuses on underwater image enhancement, object detection, and length measurement.
+I hold a Bachelor's degree in Electrical Engineering and Intelligent Control from [Soochow University](https://www.suda.edu.cn/), China. Currently, I am in the third-year of pursuing a Master's degree in Control Engineering at [School of Engineering](https://coe.ouc.edu.cn/), [Ocean University of China](https://www.ouc.edu.cn/). My thesis focuses on underwater image enhancement, object detection, and length measurement. My thesis focuses on underwater image enhancement, object detection, and length measurement.
 
 I am very fortunate to be advised by [Prof. Kunqian Li](https://coe.ouc.edu.cn/2018/0417/c9094a187718/page.htm) of [OUCVisionGroup](https://github.com/OUCVisionGroup) from [School of Engineering](https://coe.ouc.edu.cn/), [Ocean University of China](https://coe.ouc.edu.cn/2018/0417/c9094a187718/page.htm).
 
