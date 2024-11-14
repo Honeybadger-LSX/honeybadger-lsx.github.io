@@ -18,7 +18,7 @@ liushuaixin97[at]gmail.com
 #### Working Experience
 - **03/2022-07/2022** Legal Assistant, Guizhou Jiading Law Firm, Guizhou, China
   
-- **07/2020-10/2021** Math teacher and stockholder, Tsingshan Pioneer Education Co., LTD. Guizhou, China
+- **07/2020-10/2021** Math Teacher and Stockholder, Tsingshan Pioneer Education Co., LTD. Guizhou, China
 
 #### Research Interests
 Computer Vision, Computer Graphics, Machine Learning.
