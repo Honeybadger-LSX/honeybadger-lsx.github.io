@@ -11,7 +11,7 @@ liushuaixin[at]stu.ouc.edu.cn\
 liushuaixin97[at]gmail.com
 
 #### Education
-- **09/2022-Present** Master, Control Engineering, Ocean University of China, Qingdao, China
+- **09/2022-06/2025** Master, Control Engineering, Ocean University of China, Qingdao, China
   
 - **09/2016-06/2020** Bachelor, Electrical Engineering and Intelligent Control, Soochow University, Suzhou, China
   
